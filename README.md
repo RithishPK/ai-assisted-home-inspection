@@ -1,12 +1,11 @@
 # ai-assisted-home-inspection
 AI-Assisted Home &amp; Building Inspection – Snowflake AI for Good Hackathon
 
-# AI-Assisted Home & Building Inspection  
-### Snowflake AI for Good Hackathon – Round-1 Prototype
+### Round-1 Prototype
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 Home buyers and tenants often have limited visibility into hidden issues in new or
 under-construction buildings such as damp walls, exposed wiring, or structural cracks.
 Although inspection notes and photos exist, these findings are rarely analysed
